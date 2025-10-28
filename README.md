@@ -1,9 +1,8 @@
 # 👋 Hi, I’m @yellareddymaheshreddy
 
-- 👀 I’m interested in web-development and android development
-- 🌱 I’m currently learning full-stack web-development
+- 👀 I’m interested in fullstack,devops,web3
 - 💞️ I’m looking to collaborate on intresting projects
-- 📫 you can reach me through mail: yellareddymaheshreddy@gmail.com
+- 📫 you can reach me through mail: hi@mahs.me
 - 😄 Pronouns: mahesh 
 
 <!---
