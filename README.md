@@ -1,11 +1,34 @@
-# 👋 Hi, I’m @yellareddymaheshreddy
+# 👋 Hey, I'm Mahesh  
 
-- 👀 I’m interested in fullstack,devops,web3
-- 💞️ I’m looking to collaborate on intresting projects
-- 📫 you can reach me through mail: hi@mahs.me
-- 😄 Pronouns: mahesh 
+Full-stack developer passionate about building useful, fast and scalable applications.  
+I love learning Linux, backend systems, DevOps, and real-time communication tech.
 
-<!---
-yellareddymaheshreddy/yellareddymaheshreddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🌐 Socials
+[LinkedIn](https://linkedin.com/in/maheshreddyyellareddy/) • [X (Twitter)](https://x.com/mahs_rs) • [Portfolio](https://mahs.me) • [GitHub](https://github.com/yellareddymaheshreddy)
+
+---
+
+### 🛠️ Tech Stack
+**Frontend:** Next.js • React • TailwindCSS  
+**Backend:** Node.js • Express • Redis • WebSockets  
+**DevOps:** Docker • Linux • Git/GitHub  
+**Databases:** PostgreSQL • MongoDB • Redis  
+
+---
+
+### 🚀 About Me
+- 💡 Exploring Linux internals, networking & real-time systems  
+- 🌱 Learning Rust & system design  
+- 🧠 Interested in automation, distributed systems & open-source  
+- 💬 Ask me about full-stack dev or Linux  
+
+---
+
+### 📬 Contact
+📧 Email: **hi@mahs.me**
+
+---
+
+> _“Build consistently. Learn deeply. Ship boldly.”_
