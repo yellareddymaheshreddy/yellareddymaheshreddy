@@ -6,7 +6,7 @@ I love learning Linux, backend systems, DevOps, and real-time communication tech
 ---
 
 ### 🌐 Socials
-[LinkedIn](https://linkedin.com/in/maheshreddyyellareddy/) • [X (Twitter)](https://x.com/mahs_rs) • [Portfolio](https://mahs.me) • [GitHub](https://github.com/yellareddymaheshreddy)
+[LinkedIn](https://linkedin.com/in/maheshreddyyellareddy/) • [X (Twitter)](https://x.com/mahs_rs) • [Portfolio](https://ymaheshreddy.vercel.app) • [GitHub](https://github.com/yellareddymaheshreddy)
 
 ---
 
@@ -27,7 +27,7 @@ I love learning Linux, backend systems, DevOps, and real-time communication tech
 ---
 
 ### 📬 Contact
-📧 Email: **hi@mahs.me**
+📧 Email: **yellareddymaheshreddy@gmail.com**
 
 ---
 
